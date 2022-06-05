@@ -1,7 +1,7 @@
 ### Olá! Eu sou o João🦈
 
 - 🔭 Hoje estudo front-end
-- 🌱 Estudando HTML e CSS
+- 🌱 Estudando HTML, CSS e Design
 - 📫 Contate-me no email: editaae2021@icloud.com
 
 <div align="center">
