@@ -3,7 +3,6 @@
 - 🔭 Hoje estudo front-end
 - 🌱 Estudando HTML e CSS
 - 📫 Contate-me no email: editaae2021@icloud.com
-- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/devsharkcode">
