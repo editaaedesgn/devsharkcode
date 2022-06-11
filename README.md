@@ -2,7 +2,7 @@
 
 - 🔭 Hoje eu tento no front-end haha
 - 🌱 Estudando HTML, CSS e Design
-- 📫 Contate-me no email: editaae2021@icloud.com
+- 📫 Contate-me no email: corp.editaae@icloud.com
 
 ##
 
