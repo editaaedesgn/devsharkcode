@@ -1,4 +1,4 @@
-### Olá! Eu sou o João🦈
+### Olá! Eu sou o João
 
 - 🔭 Hoje eu tento no front-end haha
 - 🌱 Estudando HTML, CSS e Design
@@ -7,9 +7,9 @@
 ##
 
 <div align="center">
-  <a href="https://github.com/devsharkcode">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=devsharkcode&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsharkcode&layout=compact&langs_count=7&theme=gruvbox"/>
+  <a href="https://github.com/editaaedesgn">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=editaaedesgn&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=editaaedesgn&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
 
 <!-- <div style="display: inline_block"><br>
@@ -22,7 +22,7 @@
 </div> -->
 
 <!-- <div align="center">
-  <a href="https://github.com/devsharkcode">
+  <a href="https://github.com/editaaedesgn">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=devsharkcode&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsharkcode&layout=compact&langs_count=7&theme=dark"/>
 </div> -->
@@ -36,10 +36,10 @@
   ##
   
 <div>
-  <a target="_blank" href="https://instagram.com/dev.sharkcode" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a target="_blank" href="https://instagram.com/editaaedesign" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a target="_blank" href="https://discord.gg/MePKMnrvQs" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a target="_blank" href = "mailto:editaae2021@icloud.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
-   ![Snake animation](https://github.com/devsharkcode/devsharkcode/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/editaaedesgn/editaaedesgn/blob/output/github-contribution-grid-snake.svg)
 
 </div>
